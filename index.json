@@ -1,4 +1,10 @@
 {
   "timezone": "Europe/Stockholm",
-  "items": []
+  "items": [
+    {
+      "date": "2026-01-06",
+      "lock": "https://alybo.github.io/wallcuts/wallpapers/000001/lock.png",
+      "home": "https://alybo.github.io/wallcuts/wallpapers/000001/home.png"
+    }
+  ]
 }
