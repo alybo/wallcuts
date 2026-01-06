@@ -1,6 +1,6 @@
 {
   "timezone": "Europe/Stockholm",
-  "next_id": 6,
+  "next_id": 7,
   "assets": {
     "000001": {
       "lock": "wallpapers/000001/lock.png",
@@ -26,6 +26,11 @@
       "lock": "wallpapers/000005/lock.png",
       "home": "wallpapers/000005/home.png",
       "created_at": "2026-01-05T23:43:25+01:00"
+    },
+    "000006": {
+      "lock": "wallpapers/000006/lock.png",
+      "home": "wallpapers/000006/home.png",
+      "created_at": "2026-01-06T11:36:37+01:00"
     }
   },
   "schedule": {
