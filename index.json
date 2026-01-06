@@ -53,11 +53,16 @@
     },
     {
       "date": "2026-01-15",
+      "lock": "https://alybo.github.io/wallcuts/wallpapers/000011/lock.png",
+      "home": "https://alybo.github.io/wallcuts/wallpapers/000011/home.png"
+    },
+    {
+      "date": "2026-01-16",
       "lock": "https://alybo.github.io/wallcuts/wallpapers/000002/lock.png",
       "home": "https://alybo.github.io/wallcuts/wallpapers/000002/home.png"
     },
     {
-      "date": "2026-01-16",
+      "date": "2026-01-17",
       "lock": "https://alybo.github.io/wallcuts/wallpapers/000001/lock.png",
       "home": "https://alybo.github.io/wallcuts/wallpapers/000001/home.png"
     }
